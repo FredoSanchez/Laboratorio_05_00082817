@@ -2,14 +2,12 @@
 
 var  binario=(decimal=0) =>{
     cad="";
-    while(true){
+    num=1;
+    while(num>0){
         num = decimal/2;
         bin = decimal%2;
         cad = bin + cad;
 
-        if (num <= 0){
-            break;
-        }
         a=num;
     }
     console.log(cad);

@@ -1,5 +1,4 @@
 var fibonacci = (numero = 0) => {
-
     a = 0;
     b = 1;
     c = 0;
