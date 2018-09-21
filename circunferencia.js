@@ -4,4 +4,7 @@ var radio = (numero = 0) => {
     }else if (numero >0){
         console.log("El radio del circulo es: " + numero*Math.PI);
     }
+    else{
+        console.log("Debe ingresar un numero");
+    }
 }

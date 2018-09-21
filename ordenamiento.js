@@ -4,5 +4,4 @@ var  ordenar=(arreglo) =>{
         
     }
 }
-
 isPalindroma(prueba);
